@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>20190806090523.png</file>
+        <file>arrow.png</file>
+        <file>Arrow.qml</file>
+        <file>Button.qml</file>
+    </qresource>
+</RCC>

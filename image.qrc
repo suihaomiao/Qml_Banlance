@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="backgroud">20190806090523.png</file>
+        <file alias="arrow">arrow.png</file>
+    </qresource>
+</RCC>
